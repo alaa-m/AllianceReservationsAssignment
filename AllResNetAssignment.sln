@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllResNet.Assignment", "AllResNet.Assignment\AllResNet.Assignment.csproj", "{112286D5-CDAB-4050-9D13-D580ABDFF060}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllResNet.Assigment.Tests", "AllResNet.Assigment.Tests\AllResNet.Assigment.Tests.csproj", "{7C67008B-A6D8-4E39-82FC-ECBE8C9D8000}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{112286D5-CDAB-4050-9D13-D580ABDFF060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{112286D5-CDAB-4050-9D13-D580ABDFF060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{112286D5-CDAB-4050-9D13-D580ABDFF060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{112286D5-CDAB-4050-9D13-D580ABDFF060}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C67008B-A6D8-4E39-82FC-ECBE8C9D8000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C67008B-A6D8-4E39-82FC-ECBE8C9D8000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C67008B-A6D8-4E39-82FC-ECBE8C9D8000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C67008B-A6D8-4E39-82FC-ECBE8C9D8000}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
