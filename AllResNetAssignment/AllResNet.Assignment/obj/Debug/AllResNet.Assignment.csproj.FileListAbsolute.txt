@@ -1,0 +1,5 @@
+C:\Users\Alaa\Source\Repos\alliancereservationsassignment\AllResNetAssignment\AllResNet.Assignment\bin\Debug\AllResNet.Assignment.exe.config
+C:\Users\Alaa\Source\Repos\alliancereservationsassignment\AllResNetAssignment\AllResNet.Assignment\bin\Debug\AllResNet.Assignment.exe
+C:\Users\Alaa\Source\Repos\alliancereservationsassignment\AllResNetAssignment\AllResNet.Assignment\bin\Debug\AllResNet.Assignment.pdb
+C:\Users\Alaa\Source\Repos\alliancereservationsassignment\AllResNetAssignment\AllResNet.Assignment\obj\Debug\AllResNet.Assignment.exe
+C:\Users\Alaa\Source\Repos\alliancereservationsassignment\AllResNetAssignment\AllResNet.Assignment\obj\Debug\AllResNet.Assignment.pdb
