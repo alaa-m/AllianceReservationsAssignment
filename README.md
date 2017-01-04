@@ -7,7 +7,8 @@ Choose whatever types you feel appropriate, the purpose of the exercise is to se
 
 [TestCase]
 
-public void ProgrammerTest() {
+public void ProgrammerTest() 
+{
     var address = new Address("56 Main St", "Mesa", "AZ", "38574");
     var customer = new Customer("John", "Doe", address);
     var company = new Company("Google", address);
