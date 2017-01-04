@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace AllResNet.Assignment.Helpers
 {
+    //this class is for Factory Method Design Pattern.
     public class DataStoreFactory<T> where T : new()
     {
        

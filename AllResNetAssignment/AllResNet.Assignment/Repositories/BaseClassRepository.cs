@@ -7,6 +7,7 @@ using System.Xml.Serialization;
 using AllResNet.Assignment.Entities;
 using AllResNet.Assignment.Helpers;
 using AllResNet.Assignment.Interfaces;
+using AllResNet.Assignment.Enums;
 
 namespace AllResNet.Assignment.Repositories
 {
@@ -20,10 +21,10 @@ namespace AllResNet.Assignment.Repositories
 
         public BaseClassRepository(string path)
         {
-            //TODO: We should replace this code with Dependency Injection.
+            //TODO: We should replace this code with Dependency Injection.In order to get rid of the tight coupling  between BaseClassRepository and DataStoreFactory
             var dataStoreFactory = new DataStoreFactory<List<T>>();
             //create XML data store.
-            _dataStore = dataStoreFactory.CreateDataStore(Enums.DataStoreType.XML, path);
+            _dataStore = dataStoreFactory.CreateDataStore(DataStoreType.XML, path);
         }
            
 

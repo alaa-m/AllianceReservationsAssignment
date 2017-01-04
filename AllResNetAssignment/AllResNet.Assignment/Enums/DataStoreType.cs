@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace AllResNet.Assignment.Enums
 {
+    //types of storage file supported
     public enum DataStoreType
     {
         XML,
