@@ -6,6 +6,7 @@ In C# create a single class that when subclassed allows this sample test code to
 Choose whatever types you feel appropriate, the purpose of the exercise is to see some of your code and discuss with you the solution you came up with and the choices you made.  Your resume will not be looked at without code that passes this test. Submit your solution as a passing nUnit test case along with your resume to jobs@allresnet.com.  We'll let you know whether your code interests us or not.
 
 [TestCase]
+
 public void ProgrammerTest() {
     var address = new Address("56 Main St", "Mesa", "AZ", "38574");
     var customer = new Customer("John", "Doe", address);
